@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi all
+Welcome to my profile page. 
+
+At present, I'm working on Java and learning Rust.  Repos here will mostly reflect that. <br>
+During work I use SQL & PL/SQL and SAS.
+
+I'm learning Rust because I'm interested in writing good, working code and Web3, Polkadot / Kusama mainly.
 
 <!--
 **conors-code/conors-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
