@@ -1,7 +1,7 @@
 ### Hi all
 I'm Conor, a developer and data analyst in Ireland. Welcome to my profile page. 
 
-At present, I've workied for years on Java and JavaScript. Now I'm learning Rust & Solidity and kikcing off with GitHub (my workplaces have always used version control that *isn't* GitHub, so I'm new to it).  Repos here will mostly reflect those technical interests. <br>
+I'd worked for years on Java and JavaScript. Now I'm learning Rust & Solidity and kicking off with GitHub (my workplaces have always used version control that *isn't* GitHub, so I'm new to it).  Repos here will mostly reflect those technical interests. <br>
 During work hours I use SQL & PL/SQL, as well as SAS.  Outside of those hours: Rust, JavaScript, Java, TypeScript, Substrate, and Solidity.  Also practising project management techniques and lots of reading about strategy.
 
 I'm learning Rust because I'm interested in writing good, working code and Web3, Polkadot / Kusama mainly.  I'm learning Solidity because it's the smart contract standard.
